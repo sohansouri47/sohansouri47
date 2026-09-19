@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="ai-systems-banner.png" alt="Glowing blue and violet data flows connecting AI system nodes" width="100%" />
-</p>
-
 <h1 align="center">Sohan Souri Munaga</h1>
 
 <p align="center">
